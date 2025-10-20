@@ -1,0 +1,14 @@
+{
+  "name": "com.ran-utils.pool-manager",
+  "version": "1.0.0",
+  "displayName": "Ran Utils - Pool Manager",
+  "description": "A collection of pool manager utilities for Unity.",
+  "unity": "6000.2",
+  "unityRelease": "6f2",
+  "author": "khalishzhafran",
+  "dependencies": {
+    "com.ran-utils.custom-attribute": "1.0.0",
+    "com.ran-utils.interface": "1.0.0",
+    "com.ran-utils.ui": "1.0.0"
+  }
+}

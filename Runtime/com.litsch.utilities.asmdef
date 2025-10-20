@@ -1,0 +1,14 @@
+{
+  "name": "com.ran-utils.pool-manager",
+  "rootNamespace": "ran.utilities",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
