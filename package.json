@@ -1,8 +1,8 @@
 {
-  "name": "com.ran-utils.pool-manager",
+  "name": "com.ran-utils.object-pool",
   "version": "1.0.0",
-  "displayName": "Ran Utils - Pool Manager",
-  "description": "A collection of pool manager utilities for Unity.",
+  "displayName": "Ran Utils - Object Pool",
+  "description": "A collection of object pool utilities for Unity.",
   "unity": "6000.2",
   "unityRelease": "6f2",
   "author": "khalishzhafran",
