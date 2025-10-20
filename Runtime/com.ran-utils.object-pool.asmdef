@@ -2,7 +2,7 @@
   "name": "com.ran-utils.object-pool",
   "rootNamespace": "ran.utilities",
   "references": [
-    "com.ran-utils.custom-attribute",
+    "com.ran-utils.custom-attribute.Editor",
     "com.ran-utils.interface",
     "com.ran-utils.ui"
   ],
