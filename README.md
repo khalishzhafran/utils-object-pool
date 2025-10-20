@@ -99,7 +99,7 @@ public class MyUIPopup : UIVisualPoolableObject<MyUIPopup>
 Add the following line to your project's `manifest.json` dependencies:
 
 ```json
-"com.litsch.utilities.poolmanager": "https://github.com/yourusername/utils-pool-manager.git"
+"com.ran-utils.object-pool": "https://github.com/khalishzhafran/utils-object-pool.git"
 ```
 
 ### Option 2: Manual Copy

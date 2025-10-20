@@ -1,5 +1,5 @@
 {
-  "name": "com.ran-utils.pool-manager",
+  "name": "com.ran-utils.object-pool",
   "rootNamespace": "ran.utilities",
   "references": [],
   "includePlatforms": [],
