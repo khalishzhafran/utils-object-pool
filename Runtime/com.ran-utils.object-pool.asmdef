@@ -1,7 +1,11 @@
 {
   "name": "com.ran-utils.object-pool",
   "rootNamespace": "ran.utilities",
-  "references": [],
+  "references": [
+    "com.ran-utils.custom-attribute",
+    "com.ran-utils.interface",
+    "com.ran-utils.ui"
+  ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
