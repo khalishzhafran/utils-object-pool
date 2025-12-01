@@ -14,6 +14,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using ran.utilities.attribute;
 using UnityEngine;
 
 namespace ran.utilities
@@ -28,7 +29,7 @@ namespace ran.utilities
         [SerializeField] protected bool autoInitialize = true;
         [SerializeField] protected int initialPoolSize = 10;
         [SerializeField] protected bool hasMaxPoolSize;
-        [SerializeField] protected int maxPoolSize = 10;
+        [SerializeField, ShowIF(nameof(hasMaxPoolSize))] protected int maxPoolSize = 10;
         [SerializeField] protected Transform container;
 
         protected readonly List<IPoolableObject> pool = new();
